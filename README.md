@@ -6,7 +6,7 @@
 
 ---
 
-pdf: https://github.com/sadr0b0t/it-automata-part2/releases/download/v2-sept2024/it-automata-part2-eco-models-v2-sept2024.pdf
+pdf: https://github.com/sadr0b0t/it-automata-part2/releases/download/v2.1-dec2025/it-automata-part2-eco-models-v2.1-dec2025.pdf
 
 версии в релизах:
 https://github.com/sadr0b0t/it-automata-part2/releases
